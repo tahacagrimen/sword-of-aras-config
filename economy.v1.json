@@ -1,6 +1,6 @@
 {
   "global": {
-    "enemy_count": 1.0,
+    "enemy_count": 1.5,
     "enemy_hp": 1.0,
     "enemy_damage": 1.0,
     "boss_hp": 1.0,
