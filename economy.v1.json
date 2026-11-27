@@ -5,7 +5,7 @@
     "enemy_damage": 1.0,
     "boss_hp": 1.0,
     "boss_damage": 1.0,
-    "fort_hp": 1.0,
+    "fort_hp": 1.2,
     "kill_gold": 1.0,
     "clear_gold": 1.0,
     "xp": 1.0,
