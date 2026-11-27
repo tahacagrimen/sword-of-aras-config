@@ -1,0 +1,29 @@
+{
+  "global": {
+    "enemy_count": 1.0,
+    "enemy_hp": 1.0,
+    "enemy_damage": 1.0,
+    "boss_hp": 1.0,
+    "boss_damage": 1.0,
+    "fort_hp": 1.0,
+    "kill_gold": 1.0,
+    "clear_gold": 1.0,
+    "xp": 1.0,
+    "drop_chance": 1.0,
+    "food_rate": 1.0,
+    "mana_rate": 1.0,
+
+    "item_bonus": 1.0,
+    "passive_skill_bonus": 1.0,
+    "ability_power": 1.0,
+    "troop_hp": 1.0,
+    "troop_damage": 1.0,
+    "commander_hp": 1.0,
+    "commander_damage": 1.0,
+    "upgrade_cost": 1.0,
+    "unlock_cost": 1.0,
+    "shop_price": 1.0
+  },
+  "worlds": {},
+  "levels": {}
+}
